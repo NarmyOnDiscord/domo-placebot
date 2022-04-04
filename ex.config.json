@@ -1,0 +1,7 @@
+{
+    "accounts": [
+        { "username": "a", "password": "b!" },
+        { "username": "c", "password": "d!" }
+    ],
+    "target_configuration_url": "https://raw.githubusercontent.com/FlashSkyNews/pixel/main/pixel.json"
+}
