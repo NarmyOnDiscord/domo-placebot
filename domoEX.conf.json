@@ -1,0 +1,12 @@
+{
+    "accounts": [{
+            "username": "Accountname",
+            "password": "Passwort"
+        },
+        {
+            "username": "Accountname",
+            "password": "Passwort"
+        }
+    ],
+    "target_configuration_url": "Path / URL zur Pixelconfig"
+}
